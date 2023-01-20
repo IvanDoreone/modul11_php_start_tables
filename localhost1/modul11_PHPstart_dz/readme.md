@@ -10,8 +10,8 @@
 
 ---
 
-## Просмотр проекта: 
-### Cкопируйте и откройте в браузере файл [index.php](/localhost1/modul11_PHPstart_dz/index.php)
+
+## PHP файл c решением задания находится по этой ссылке: [index.php](/localhost1/modul11_PHPstart_dz/index.php)
 
 
 
